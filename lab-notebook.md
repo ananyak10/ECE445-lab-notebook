@@ -834,13 +834,6 @@ I helped run the full system with two nodes. My focus was firmware behavior: ser
 
 The system is ready for final polishing. The remaining work is mostly documentation, screenshots, and making the demo sequence smooth.
 
-## Evidence
-
-```text
-Add screenshot: evidence/two-node-dashboard.png
-Add screenshot: evidence/mqtt-events.png
-Add screenshot: evidence/csv-log.png
-```
 
 ## Next Steps
 
@@ -852,11 +845,11 @@ Prepare final demo evidence and debugging notes.
 
 ## Objectives
 
-Document remaining debugging and organize final notebook evidence.
+Document remaining debugging.
 
 ## Work Completed
 
-I reviewed serial logs, MQTT packets, CSV logs, and dashboard screenshots from integration testing. I organized evidence into the `evidence/` folder so that the GitHub notebook can show the engineering process clearly.
+I reviewed serial logs, MQTT packets, CSV logs, and dashboard screenshots from integration testing. 
 
 ## Debugging Table
 
@@ -937,7 +930,7 @@ Finalize the lab notebook for submission and check it against the rubric.
 
 ## Work Completed
 
-I reviewed the notebook for regular dated entries, design decisions, engineering process, work-session observations, code snippets, equations, and evidence links.
+I reviewed the notebook for regular dated entries, design decisions, engineering process, work-session observations, code snippets, equations.
 
 ## Rubric Self-Check
 
