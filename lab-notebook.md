@@ -1,5 +1,7 @@
 # Lab Notebook — Ananya Krishnan (originally did this on google docs, so I had to commit all my entries in one go)
 
+# screenshots of pcb design, schematic, etc are also uploaded as files in this repo
+
 Project: **CrowdSurf — Real-Time Crowd Monitoring for Indoor Spaces**  
 Course: **ECE 445**  
 
